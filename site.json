@@ -1,0 +1,10 @@
+{
+  "$comment": "Facts of this product the legal templates (docs/legal/templates) and the site chrome need and the brand pack does not carry; scripts/site/build.ts capbateau reads it. The host defaults to <slug>.sesamlabs.fr.",
+  "exam": "l'épreuve théorique du permis plaisance option côtière",
+  "pass_name": "Pass Côtier",
+  "school": "bateau-école",
+  "exam_min_age": "16",
+  "real_use": "un usage de l'Application en navigation réelle : l'Application est un outil d'apprentissage, pas une aide à la navigation",
+  "legal_updated": "28 octobre 2026",
+  "draft": false
+}
