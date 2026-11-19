@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "fr.capbateau.app",
+      "sha256_cert_fingerprints": [
+        "31:10:C4:73:CA:58:84:21:A6:EF:65:E9:92:2B:37:93:31:E6:26:B9:2D:78:45:3D:E5:F8:56:CA:0B:A7:9A:9F"
+      ]
+    }
+  }
+]

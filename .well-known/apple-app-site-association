@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "QCW7F4FQCZ.fr.capbateau.app"
+        ],
+        "components": [
+          {
+            "/": "/lesson/*"
+          },
+          {
+            "/": "/exam"
+          },
+          {
+            "/": "/pass"
+          },
+          {
+            "/": "/support"
+          }
+        ]
+      }
+    ]
+  }
+}
